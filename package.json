@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pocketly/sand-influx.git"
+    "url": "https://github.com/SandJS/influx.git"
   },
   "keywords": [
     "sand",
@@ -17,9 +17,9 @@
   "author": "Kevin Smithson <ksmithson@pocketly.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pocketly/sand-influx/issues"
+    "url": "https://github.com/SandJS/influx/issues"
   },
-  "homepage": "https://github.com/pocketly/sand-influx",
+  "homepage": "https://github.com/SandJS/influx",
   "dependencies": {
     "delegates": "^0.1.0",
     "influx": "^4.1.0",
